@@ -17,14 +17,14 @@
 
 Para inicializar o servidor json-server, siga estas etapas:
 
-Na pasta ./backend execulte
+Na pasta backend execute
 ```
 yarn server
 ```
 
 Para inicializar o projeto dev, siga estas etapas:
 
-Na pasta ./frontend execulte
+Na pasta frontend execute
 ```
 yarn dev
 ```

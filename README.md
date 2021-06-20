@@ -1,6 +1,6 @@
 # Hero-Elections
 
-<img src="https://ibb.co/Jv5cGLM">
+<a href="https://ibb.co/Jv5cGLM"><img src="https://i.ibb.co/k4QGwnW/foto1.png" alt="foto1" border="0"></a>
 
 > O projeto desenvolvido em React para desavio do módulo III - Boootcamp IGTI.
 

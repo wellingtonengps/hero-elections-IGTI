@@ -1,6 +1,6 @@
 # Hero-Elections
 
-<img src="https://www.imagemhost.com.br/image/2Kzpay">
+<img src="https://ibb.co/Jv5cGLM">
 
 > O projeto desenvolvido em React para desavio do módulo III - Boootcamp IGTI.
 
@@ -17,15 +17,15 @@
 
 Para inicializar o servidor json-server, siga estas etapas:
 
-Na basta ./backend execulte
+Na pasta ./backend execulte
 ```
-<yarn server> 
+yarn server
 ```
 
 Para inicializar o projeto dev, siga estas etapas:
 
-Na basta ./frontend execulte
+Na pasta ./frontend execulte
 ```
-<yarn dev> 
+yarn dev
 ```
 
